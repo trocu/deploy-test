@@ -1,5 +1,6 @@
 {
-  "name": "goit-react-hw-08-phonebook",
+  "name": "deploy-test",
+  "homepage": "https://trocu.github.io/deploy-test/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
